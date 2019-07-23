@@ -6,7 +6,7 @@ public class FileLoadUtil {
 
 
     /**
-     * 存放img的文件夹123
+     * 存放img的文件夹1234
      */
 
     public final static String IMG_PATH_PREFIX = "static/upload/imgs";
