@@ -20,7 +20,7 @@ public class FileLoad {
     @RequestMapping(value = "/test")
     @ResponseBody
     public String myTest(){
-        return "yes";
+        return "yess";
     }
 
     /**
